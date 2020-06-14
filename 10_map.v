@@ -1,5 +1,5 @@
 fn main() {
-    mut m := map[string]int{} // 現時点では、文字列型のみがキーに使用できる
+    mut m := map[string]int{} // 執筆時点では、文字列型のみがキーに使用できる
     m['one'] = 1
     m['two'] = 2
     
